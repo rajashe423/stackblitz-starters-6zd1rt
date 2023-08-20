@@ -1,0 +1,18 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+  position: relative;
+  background: #0078cf !important;
+  color: #fff !important;
+  padding: 20px 0px 20px;
+  transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+}
+
+.Nav.Link {
+  color: #fff !important;
+}
